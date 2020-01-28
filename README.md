@@ -5,9 +5,9 @@ See the bayes.ipynb for bayesian inference of protein function from high-through
 Understanding the effects of mutations on a protein sequence is not just a fundamental question in evolutionary biology but also at the core of therapeutic protein drug design. We have measured the effect of 1000s of protein sequence variants in order to learn about such mutation effects. We're trying to understand whether current pairwise abstractions of interacting proteins are useful in predicting the actual next 2 mutational steps across a protein interface.
 
 
-### Motivation for performing Bayesian analysis:
+## Motivation for performing Bayesian analysis:
 
-**1. interpretability**:
+**1. Interpretability**:
 
 Inherently, we are interested in whether and how much a given mutation rescues the growth rate, compared to the wt sequence, which is the posterior Bayesian credible interval. The frequentist confidence interval would ask something along the lines of whether a particular mutant differs in it's growth rate (reject the null hypothesis or not).
 
