@@ -1,2 +1,3 @@
 # bayes_count
-bayesian inference of protein function 
+See the bayes.ipynb for bayesian inference of protein function from high-throughput assays.
+
